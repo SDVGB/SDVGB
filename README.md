@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE6FEC&background=000000&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=Encantada+de+conocerte!+Soy+Stefania;%C2%A1Bienvenido+a+mi+perfil+de+GitHub!+Estoy+emocionado+de+compartir+mis+proyectos+y+conocimientos+contigo.)](https://git.io/typing-svg)
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE6FEC&background=000000&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&width=500&lines=Encantada+de+conocerte!+Soy+Stefania;%C2%A1Bienvenido+a+mi+perfil+de+GitHub!" alt="Typing SVG" /></a>
+</div>
 
 
 # 📊 GitHub Stats:
