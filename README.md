@@ -19,7 +19,7 @@
             srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SDVGB&layout=compact"
             media="(prefers-color-scheme: dark)"
         />
-        <source height=200 
+        <source height=100 
             srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SDVGB&layout=compact&locale=es&title_color=000000"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
