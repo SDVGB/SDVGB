@@ -20,7 +20,7 @@
             media="(prefers-color-scheme: dark)"
         />
         <source height=165 
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SDVGB&layout=compact&locale=es&title_color=000000&hide_title=true&card_width=470px"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SDVGB&layout=compact&locale=es&title_color=000000&hide_title=true&card_width=200px"
         />
         <img 
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=SDVGB&layout=compact&locale=es"
