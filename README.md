@@ -16,11 +16,11 @@
     </picture>
     <picture>
         <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SDVGB&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SDVGB&layout=compact"
             media="(prefers-color-scheme: dark)"
         />
         <source
-            srcset="(https://github-readme-stats.vercel.app/api/top-langs/?username=SDVGB&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SDVGB&layout=compact"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
         <img
