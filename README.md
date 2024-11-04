@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE6FEC&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=Encantada+de+conocerte!+Soy+Stefania)](https://git.io/typing-svg)
+
+
 # 📊 GitHub Stats:
 <div align="center">
     <picture>
