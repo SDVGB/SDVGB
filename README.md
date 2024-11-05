@@ -2,8 +2,12 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE6FEC&background=6A671F00&center=true&width=500&lines=Encantada+de+conocerte!+Soy+Stefania;%C2%A1Bienvenido+a+mi+perfil+de+GitHub!" alt="Typing SVG" /></a>
 </div>
 
+
 ### 📊Tecnologías y herramientas
-<hr>
+### 📊Estadísticas de GitHub
+### 📊Conéctate conmigo
+___
+
 
 
 
