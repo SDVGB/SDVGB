@@ -3,10 +3,10 @@
 </div>
 
 
-### Tecnologías y herramientas
+### 💻Tecnologías y herramientas
 <br>
 
-### Estadísticas de GitHub
+### 🧮Estadísticas de GitHub
 <div align="center">
     <picture>
         <source
@@ -37,6 +37,6 @@
     </picture>
 </div>
 
-### 📊Conéctate conmigo
+### 📫Conéctate conmigo
 
 
