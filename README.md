@@ -8,11 +8,11 @@ console.log("Soy una desarrollador Full Stack con un enfoque en la innovación. 
 en entornos desafiantes, siempre dispuesta a contribuir y marcar la diferencia en proyectos emocionantes");
 ```
 
-### 💻Tecnologías y herramientas
-<table  border="0">
+<table>
   <tr>
-    <td>
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW1lM3VzbnBscm8wY3p3c244aW5hNHpscnZhYjNmeWtranB4dXl2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif" alt="Texto alternativo" width="150">
+    <td width="200" >💻Tecnologías y herramientas
+        <hr>
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW1lM3VzbnBscm8wY3p3c244aW5hNHpscnZhYjNmeWtranB4dXl2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif" alt="Texto alternativo" width="150" align="center">
     </td>
     <td>
       <table cellpadding="10" >
