@@ -7,7 +7,7 @@
 
 ```javascript
 console.log("Soy una desarrollador Full Stack con un enfoque en la innovación. Busco oportunidades para aprender y crecer
-en entornos desafiantes, siempre dispuesto a contribuir y marcar la diferencia en proyectos emocionantes");
+en entornos desafiantes, siempre dispuesta a contribuir y marcar la diferencia en proyectos emocionantes");
 ```
 
 
