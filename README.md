@@ -3,8 +3,6 @@
 </div>
 
 
-
-
 ```javascript
 console.log("Soy una desarrollador Full Stack con un enfoque en la innovación. Busco oportunidades para aprender y crecer
 en entornos desafiantes, siempre dispuesta a contribuir y marcar la diferencia en proyectos emocionantes");
@@ -15,15 +13,15 @@ en entornos desafiantes, siempre dispuesta a contribuir y marcar la diferencia e
 <table  border="0">
   <tr>
     <td>
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW1lM3VzbnBscm8wY3p3c244aW5hNHpscnZhYjNmeWtranB4dXl2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif" alt="Texto alternativo" width="200">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW1lM3VzbnBscm8wY3p3c244aW5hNHpscnZhYjNmeWtranB4dXl2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif" alt="Texto alternativo" width="100">
     </td>
     <td>
-      <table cellpadding="10">
+      <table cellpadding="10" >
         <tr>
-          <th>Lenguajes</th>
-          <th>Frameworks</th>
-          <th>Bases de Datos</th>
-          <th>Otros</th>
+          <th width="200">Lenguajes</th>
+          <th width="200">Frameworks</th>
+          <th width="200">Bases de Datos</th>
+          <th width="200">Otros</th>
         </tr>
         <tr>
           <td><img src="https://skillicons.dev/icons?i=js" width="30"> JavaScript</td>
