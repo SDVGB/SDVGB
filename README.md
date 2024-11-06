@@ -4,7 +4,7 @@
 
 
 ### 📊Tecnologías y herramientas
-### 📊Estadísticas de GitHub
+
 ### 📊Conéctate conmigo
 ___
 
@@ -13,7 +13,7 @@ ___
 
 
 
-
+### 📊Estadísticas de GitHub
 <div align="center">
     <picture>
         <source
