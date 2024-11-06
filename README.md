@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" alt="Texto alternativo" width="300">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ljMjVkd2U5ZGRmbW1lOXFqNm1icXk3dGE2MHg3YmN1OHptOGszZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.webp" alt="Texto alternativo" width="300">
     </td>
     <td>
       <table border="1" cellpadding="10">
