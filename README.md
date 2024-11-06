@@ -8,20 +8,19 @@ console.log("Soy una desarrollador Full Stack con un enfoque en la innovación. 
 en entornos desafiantes, siempre dispuesta a contribuir y marcar la diferencia en proyectos emocionantes");
 ```
 
-
 ### 💻Tecnologías y herramientas
 <table  border="0">
   <tr>
     <td>
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW1lM3VzbnBscm8wY3p3c244aW5hNHpscnZhYjNmeWtranB4dXl2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif" alt="Texto alternativo" width="100">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW1lM3VzbnBscm8wY3p3c244aW5hNHpscnZhYjNmeWtranB4dXl2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif" alt="Texto alternativo" width="150">
     </td>
     <td>
       <table cellpadding="10" >
         <tr>
-          <th width="200">Lenguajes</th>
-          <th width="200">Frameworks</th>
-          <th width="200">Bases de Datos</th>
-          <th width="200">Otros</th>
+          <th width="150">Lenguajes</th>
+          <th width="150">Frameworks</th>
+          <th width="150">Bases de Datos</th>
+          <th width="150">Otros</th>
         </tr>
         <tr>
           <td><img src="https://skillicons.dev/icons?i=js" width="30"> JavaScript</td>
@@ -45,9 +44,6 @@ en entornos desafiantes, siempre dispuesta a contribuir y marcar la diferencia e
     </td>
   </tr>
 </table>
-
-
-<br>
 
 ### 🧮Estadísticas de GitHub
 <div align="center">
