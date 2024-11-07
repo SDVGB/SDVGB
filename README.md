@@ -2,11 +2,11 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE6FEC&background=6A671F00&center=true&width=500&lines=Encantada+de+conocerte!+Soy+Stefania;%C2%A1Bienvenido+a+mi+perfil+de+GitHub!" alt="Typing SVG" /></a>
 </div>
 
-
 ```javascript
 console.log("Soy una desarrollador Full Stack con un enfoque en la innovación. Busco oportunidades para aprender y crecer
 en entornos desafiantes, siempre dispuesta a contribuir y marcar la diferencia en proyectos emocionantes");
 ```
+<hr>
 
 <table>
   <tr>
