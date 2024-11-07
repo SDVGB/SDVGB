@@ -2,8 +2,8 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE6FEC&background=6A671F00&center=true&width=500&lines=Encantada+de+conocerte!+Soy+Stefania;%C2%A1Bienvenido+a+mi+perfil+de+GitHub!" alt="Typing SVG" /></a>
 </div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&size=10)](https://www.linkedin.com/in/stefania-guzman/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&size=10)](stefaniaguzman2516@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=border-radius:0)](https://www.linkedin.com/in/stefania-guzman/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=border-radius:0)](mailto:stefaniaguzman2516@gmail.com)
 
 
 
