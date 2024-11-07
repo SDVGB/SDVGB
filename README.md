@@ -99,13 +99,14 @@
 <hr>
 
 
+
 <picture>
     <source  
         srcset="https://github.com/user-attachments/assets/50fd009b-017e-441f-83ce-975df86f2eae"
         media="(prefers-color-scheme: dark)"
      />
     <source 
-        srcset="https://github.com/user-attachments/assets/65ded791-eecf-4c24-92e1-12bc8bd9cca0"
+        srcset="https://github.com/user-attachments/assets/ff2b6faf-6142-4eef-91a7-63e8537ab2c4"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
      />
     <img src="https://github.com/user-attachments/assets/9dc52364-3ca1-4548-8826-bb03a5fe9ee6" alt="Descripción de la imagen" />
