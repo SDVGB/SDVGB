@@ -3,10 +3,7 @@
 </div>
 <table>
     <tr>
-        <td>
-            <p>Soy una desarrollador Full Stack con un enfoque en la innovación. Busco oportunidades para aprender y creceren entornos desafiantes, siempre dispuesta a contribuir y marcar la diferencia en proyectos emocionantes</p>
-        </td>
-        <td>
+        <td colspan="2">
             <p>Soy una desarrollador Full Stack con un enfoque en la innovación. Busco oportunidades para aprender y creceren entornos desafiantes, siempre dispuesta a contribuir y marcar la diferencia en proyectos emocionantes</p>
         </td>
     </tr>
