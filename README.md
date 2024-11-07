@@ -59,11 +59,7 @@
     <img src="https://github.com/user-attachments/assets/9dc52364-3ca1-4548-8826-bb03a5fe9ee6" alt="Descripción de la imagen" />
 </picture>
 
-
-<hr>
-   
-
-<div align="center">
+<br><div align="center">
     <picture>
         <source  height=137
             srcset="https://github-readme-stats.vercel.app/api?username=SDVGB&show_icons=true&bg_color=00000000&locale=es&hide_title=true&ring_color=ee6fec&rank_icon=github&icon_color=ee6fec&text_color=FFFFFF"
