@@ -62,11 +62,11 @@
 <div align="center">
     <picture>
         <source  height=137
-            srcset="https://github-readme-stats.vercel.app/api?username=SDVGB&show_icons=true&bg_color=00000000&locale=es&hide_title=true&ring_color=ee6fec&rank_icon=github&icon_color=ee6fec&text_color=FFFFFF"
+            srcset="https://github-readme-stats.vercel.app/api?username=SDVGB&show_icons=true&bg_color=00000000&locale=es&ring_color=ee6fec&rank_icon=github&icon_color=ee6fec&text_color=FFFFFF"
             media="(prefers-color-scheme: dark)"
         />
         <source height=137
-            srcset="https://github-readme-stats.vercel.app/api?username=SDVGB&show_icons=true&bg_color=00000000&locale=es&hide_title=true&ring_color=ee6fec&rank_icon=github&icon_color=ee6fec&text_color=000000"
+            srcset="https://github-readme-stats.vercel.app/api?username=SDVGB&show_icons=true&bg_color=00000000&locale=es&ring_color=ee6fec&rank_icon=github&icon_color=ee6fec&text_color=000000"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
         <img
@@ -76,7 +76,7 @@
     </picture>
     <picture>
         <source height=137
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SDVGB&layout=compact&bg_color=00000000&locale=es&title_color=FFFFFF&text_color=FFFFFF"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SDVGB&layout=compact&bg_color=00000000&locale=es&text_color=FFFFFF"
             media="(prefers-color-scheme: dark)"
         />
         <source height=137
