@@ -46,18 +46,19 @@
     </tr>
 </table>
 <hr>
-    <picture>
-        <source  
-            srcset="https://github.com/user-attachments/assets/ed05891b-b9d3-4957-a02f-4112659ec4ef"
-            media="(prefers-color-scheme: dark)"
-        />
-    </picture>
-    <picture>
-        <source 
-            srcset="https://github.com/user-attachments/assets/9dc52364-3ca1-4548-8826-bb03a5fe9ee6"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-    </picture>
+
+<picture>
+    <source  
+        srcset="https://github.com/user-attachments/assets/ed05891b-b9d3-4957-a02f-4112659ec4ef"
+        media="(prefers-color-scheme: dark)"
+     />
+    <source 
+        srcset="https://github.com/user-attachments/assets/9dc52364-3ca1-4548-8826-bb03a5fe9ee6"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+     />
+    <img src="https://github.com/user-attachments/assets/9dc52364-3ca1-4548-8826-bb03a5fe9ee6" alt="Descripción de la imagen" />
+</picture>
+
     
 <div align="center">
     <picture>
