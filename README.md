@@ -59,7 +59,10 @@
     <img src="https://github.com/user-attachments/assets/9dc52364-3ca1-4548-8826-bb03a5fe9ee6" alt="Descripción de la imagen" />
 </picture>
 
-    
+
+<hr>
+   
+
 <div align="center">
     <picture>
         <source  height=137
