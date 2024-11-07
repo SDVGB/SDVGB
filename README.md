@@ -47,12 +47,8 @@
 </table>
 <hr>
 
+![github-header-image (4)](https://github.com/user-attachments/assets/725f266d-e36d-47cc-947b-2d03b47882a2)
 
-
-
-```javascript
-console.log("🧮Estadísticas de GitHub");
-```
 <div align="center">
     <picture>
         <source
