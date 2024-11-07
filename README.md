@@ -47,7 +47,8 @@
 </table>
 <hr>
 
-![github-header-image (8)](https://github.com/user-attachments/assets/9797179a-eda9-4ea6-b6c3-35e7bfa85476)
+![github-header-image (5)](https://github.com/user-attachments/assets/e822ffae-5810-4f73-8e81-00876c824f6f)
+
 
 <div align="center">
     <picture>
