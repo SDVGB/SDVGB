@@ -103,11 +103,11 @@
 
 <picture>
     <source  
-        srcset="https://github.com/user-attachments/assets/6a58ad41-fc80-469a-821a-aaf535045c05"
+        srcset="https://github.com/user-attachments/assets/c62b971d-f4bc-426e-afd6-cdcf44b770d9"
         media="(prefers-color-scheme: dark)"
      />
     <source 
-        srcset="https://github.com/user-attachments/assets/400d1de1-eca1-451a-8d3f-218651609594"
+        srcset="https://github.com/user-attachments/assets/42d98bf4-2e17-4739-af34-4dd269e0aa96"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
      />
     <img src="https://github.com/user-attachments/assets/9dc52364-3ca1-4548-8826-bb03a5fe9ee6" alt="Descripción de la imagen" />
