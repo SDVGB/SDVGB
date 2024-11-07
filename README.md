@@ -100,13 +100,14 @@
 
 
 
+
 <picture>
     <source  
-        srcset="https://github.com/user-attachments/assets/50fd009b-017e-441f-83ce-975df86f2eae"
+        srcset="https://github.com/user-attachments/assets/6a58ad41-fc80-469a-821a-aaf535045c05"
         media="(prefers-color-scheme: dark)"
      />
     <source 
-        srcset="https://github.com/user-attachments/assets/ff2b6faf-6142-4eef-91a7-63e8537ab2c4"
+        srcset="https://github.com/user-attachments/assets/400d1de1-eca1-451a-8d3f-218651609594"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
      />
     <img src="https://github.com/user-attachments/assets/9dc52364-3ca1-4548-8826-bb03a5fe9ee6" alt="Descripción de la imagen" />
