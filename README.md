@@ -4,7 +4,7 @@
 <table>
     <tr>
         <td colspan="2">
-            <p>Soy una desarrollador Full Stack con un enfoque en la innovación. Busco oportunidades para aprender y creceren entornos desafiantes, siempre dispuesta a contribuir y marcar la diferencia en proyectos emocionantes</p><br>
+            <p>Soy una desarrollador Full Stack con un enfoque en la innovación. Busco oportunidades para aprender y crecer en entornos desafiantes, siempre dispuesta a contribuir y marcar la diferencia en proyectos emocionantes.</p><br>
         </td>
     </tr>
     <tr>
@@ -45,12 +45,13 @@
         </td>
     </tr>
 </table>
+<hr>
 
 
 
 
 ```javascript
-console.log("");
+console.log("🧮Estadísticas de GitHub");
 ```
 <div align="center">
     <picture>
@@ -81,46 +82,6 @@ console.log("");
         />
     </picture>
 </div>
-<hr>
-
-<table>
-  <tr>
-    <td width="200" >
-        <hr>
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW1lM3VzbnBscm8wY3p3c244aW5hNHpscnZhYjNmeWtranB4dXl2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif" alt="Texto alternativo" width="150" align="center">
-    </td>
-    <td>
-      <table cellpadding="10" >
-        <tr>
-          <th width="150">Lenguajes</th>
-          <th width="150">Frameworks</th>
-          <th width="150">Bases de Datos</th>
-          <th width="150">Otros</th>
-        </tr>
-        <tr>
-          <td><img src="https://skillicons.dev/icons?i=js" width="30"> JavaScript</td>
-          <td><img src="https://skillicons.dev/icons?i=react" width="30"> React</td>
-          <td><img src="https://skillicons.dev/icons?i=mongodb" width="30"> MongoDB</td>
-          <td><img src="https://skillicons.dev/icons?i=git" width="30"> Git</td>
-        </tr>
-        <tr>
-          <td><img src="https://skillicons.dev/icons?i=html" width="30"> HTML5</td>
-          <td><img src="https://skillicons.dev/icons?i=vue" width="30"> Vue.js</td>
-          <td><img src="https://skillicons.dev/icons?i=mysql" width="30"> MySQL</td>
-          <td><img src="https://skillicons.dev/icons?i=aws" width="30"> AWS</td>
-        </tr>
-        <tr>
-          <td><img src="https://skillicons.dev/icons?i=css" width="30"> CSS3</td>
-          <td><img src="https://skillicons.dev/icons?i=bootstrap" width="30"> Bootstrap</td>
-          <td></td>
-          <td><img src="https://skillicons.dev/icons?i=github" width="30"> GitHub</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-
-### 🧮Estadísticas de GitHub
 
 
 ### 📫Conéctate conmigo
