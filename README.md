@@ -66,7 +66,7 @@
     </picture>
     <picture>
         <source height=137
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SDVGB&layout=compact&bg_color=00000000&locale=es&title_color=000000&hide_title=true"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SDVGB&layout=compact&bg_color=00000000&locale=es&title_color=FFFFFF&hide_title=true"
             media="(prefers-color-scheme: dark)"
         />
         <source height=137
